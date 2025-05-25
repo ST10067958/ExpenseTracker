@@ -11,7 +11,7 @@ android {
 
     defaultConfig {
         applicationId = "com.yasis.expensetracker"
-        minSdk = 24
+        minSdk = 28
         targetSdk = 35
         versionCode = 1
         versionName = "1.0"
@@ -57,8 +57,7 @@ dependencies {
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
     implementation("com.google.android.material:material:1.11.0")
-
-
+    implementation("io.coil-kt:coil-compose:2.4.0")
     implementation(platform("com.google.firebase:firebase-bom:32.3.1"))
     implementation("com.google.firebase:firebase-auth")
     implementation("com.google.firebase:firebase-firestore")
