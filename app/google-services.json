@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "483829049220",
+    "project_id": "epensetracker-34759",
+    "storage_bucket": "epensetracker-34759.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483829049220:android:fd5239f76707e61bfc5fd1",
+        "android_client_info": {
+          "package_name": "com.yasis.expensetracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAwYcAstmC3b_sB6FIwaKJmJg7bKxWvq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
